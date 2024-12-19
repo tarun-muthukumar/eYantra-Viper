@@ -7,4 +7,4 @@ Our primary objective was to detect alien species using various image processing
 Task 1 was primarily on PID tuning of the drone to stabilize at a particular point, also using OpenCV to detect bright spots in a given image.
 Task 2 was to use appropriate path planning algos and navigate across the Arena and detect those species(marked as a bright spot) and then send the coordinates to the base station.
 
-The tasks were to be done using ROS and was simulated in Gazebo environment.
+The tasks were to be done using #ROS and was simulated in #Gazebo environment.
